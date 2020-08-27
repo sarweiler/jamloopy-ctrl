@@ -34,7 +34,7 @@ Upload the Gerber files in the [kicad](kicad) directory (you may want to zip the
 
 Using the controller is pretty straight forward: Connect the left port of your controller to the left joystick port on the Atari and the right port to the right joystick port on the Atari using two DB9 extension cables.
 
-On the left side of the controller you've got a joystick in the form of cursor keys (UP1, DOWN1, LEFT1, and RIGHT1 on the PCB) and two fire buttons (FIRE1 and FIRE2 on the PCB). The fire buttons are the same, I just added a second one for symmetry reasons.
+On the left side of the controller you've got a joystick in the form of cursor keys (UP1, DOWN1, LEFT1, and RIGHT1 on the PCB) and two fire buttons (FIRE1 and FIRE2 on the PCB). The fire buttons are identical, I just added a second one for symmetry reasons.
 
 On the right side of the controller you've got an Atari keyboard controller with switches 1 to 9 and 0 (SW1 to SW9 and SW11), the \*-key (SW10) and the #-key (SW12).
 
