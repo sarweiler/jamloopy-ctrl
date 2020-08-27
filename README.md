@@ -41,4 +41,7 @@ On the right side of the controller you've got an Atari keyboard controller with
 For information on how to use JamLoopy, check out the [JamLoopy](http://satori.sk/jamloopy/) manual.
 
 
+![pcb artwork](images/vcs_city.png)
+
+
 [![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net)
