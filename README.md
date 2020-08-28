@@ -1,6 +1,6 @@
 # JamLoopy Ctrl
 
-JamLoopy Ctrl is a controller for the Atari 2600 Music App [JamLoopy](http://satori.sk/jamloopy/) by Zden Hlinka. It's basically an Atari joystick circuit and an Atari keyboard controller circuit on a single PCB.
+JamLoopy Ctrl is a controller for the Atari 2600 music app [JamLoopy](http://satori.sk/jamloopy/) by Zden Hlinka. It's basically an Atari joystick circuit and an Atari keyboard controller circuit on a single PCB.
 
 ![JamLoopy Ctrl](images/jamloopy-ctrl.jpg)
 
