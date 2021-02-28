@@ -43,6 +43,10 @@ For information on how to use JamLoopy, check out the [JamLoopy](http://satori.s
 
 ![pcb artwork](images/vcs_city.png)
 
+## Disclaimer
+
+Build and use JamLoopy Ctrl at your own risk. I cannot be held responsible for damage caused to your devices, yourself or others.
+
 ## License
 
 This work is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
