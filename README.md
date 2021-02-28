@@ -43,5 +43,6 @@ For information on how to use JamLoopy, check out the [JamLoopy](http://satori.s
 
 ![pcb artwork](images/vcs_city.png)
 
+## License
 
-[![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)](http://www.wtfpl.net)
+This work is licensed under [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
